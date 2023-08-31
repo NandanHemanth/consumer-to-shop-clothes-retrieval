@@ -1,1 +1,1 @@
-# cosumer-to-shop-clothes-retrieval
+# consumer-to-shop-clothes-retrieval
